@@ -4,3 +4,5 @@ Revision history for Perl extension China::IdentityCard::Validate.
 	- original version; created by h2xs 1.23 with options
 		-AX -n China::IdentityCard::Validate
 
+0.02 Tues. Mar 15 00:28:00 2005
+	- add the validate to privince && birthday(roughly)

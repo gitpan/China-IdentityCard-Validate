@@ -1,4 +1,4 @@
-China-IdentityCard-Validate version 0.01
+China-IdentityCard-Validate version 0.02
 ========================================
 
 The README is used to introduce the module and provide instructions on
@@ -21,12 +21,6 @@ To install this module type the following:
    make test
    make install
 
-DEPENDENCIES
-
-This module requires these other modules and libraries:
-
-  blah blah blah
-
 COPYRIGHT AND LICENCE
 
 Put the correct copyright and licence information here.
@@ -35,5 +29,3 @@ Copyright (C) 2005 by fayland <fayland@gmail.com>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
-
-
