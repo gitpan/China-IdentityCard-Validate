@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/China-IdentityCard-Validate.t
+lib/China/IdentityCard/Validate.pm
+META.yml                                 Module meta-data (added by MakeMaker)
